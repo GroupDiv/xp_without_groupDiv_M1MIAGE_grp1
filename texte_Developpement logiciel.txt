@@ -1,0 +1,24 @@
+Pre-requis:
+
+- Connaissances en logique (cours L2)
+- Connaissances Java, UML
+- Connnaissances sur la théorie des ensembles
+
+Competences acquises:
+
+- Langage Z
+- Notions en Design Patterns
+- Spécifications OCL
+
+Programme:
+
+- Spécifications formelles
+- Architecture logicielle
+- Conception préliminaire
+- Conception détaillée
+
+Ameliorations a apporter:
+
+- Réaliser des TPs, surtout pour implémenter quelques patrons de conception
+- Supprimer la partie de spécifications Z ou y passer moins de temps
+- Passer plus de temps sur les bonnes pratiques
