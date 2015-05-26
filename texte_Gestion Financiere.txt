@@ -13,4 +13,4 @@ Capacité d'auto financement
 
 
 Ameliorations a apporter:
-Ajouter un TP
+Ajouter une partie TP au module.
