@@ -1,2 +1,3 @@
 164144|Technique de communication|usr4: Arreter de corriger des rapports aurait été un bon point à aborder
 164348|Gestion Financiere|usr4: Arrêter d'appendre des formules juste dans le but de les connaitres pour le devoir et plutot se concentrer sur l'analyse des résultats obtenu
+164559|Developpement logiciel|usr4: Mutualisé les projets pourrait également etre une bonne idée
