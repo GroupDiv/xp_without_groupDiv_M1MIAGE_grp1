@@ -8,7 +8,7 @@ Aucune
 
 Programme:
 
-Web sémantique
+Web sémantique,RDF, turtle
 
 Ameliorations a apporter:
 
