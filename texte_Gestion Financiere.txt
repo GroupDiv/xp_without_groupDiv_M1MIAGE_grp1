@@ -1,9 +1,10 @@
 Pre-requis:
-Module Comptabilité
+Module Comptabilité Analytique
 Module Contrôle de Gestion
+Réaliser les bilans, comptes de résultats et comptes en T à partir d'écritures comptables
 
 Competences acquises:
-Analyse plus approfondies des bilans
+Analyse plus approfondies des bilans et comptes de résultat
 
 
 Programme:
@@ -13,4 +14,4 @@ Capacité d'auto financement
 
 
 Ameliorations a apporter:
-Ajouter un TP
+Ajouter une partie TP au module.
