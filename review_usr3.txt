@@ -1,1 +1,2 @@
 164321|Nouvelle Pratique Informatique|usr3: L'XML n'est pas un pré-requis de la matière, c'est la manière d'enseignement qui fait penser à l'XML. Dans le programme, également des open data ont été abordées. Quelques compétences sur des notions acquises sur le programme bien que cela ne soit pas bien utile -voire pas du tout.
+164532|Gestion Financiere|usr3: Au niveau des compétences : juger si une entreprise a une santé financière correcte. Au niveau du programme : analyse fonctionnelle du bilan. Au niveau amélioration : éviter de faire 8h de ce module dans la même journée.
