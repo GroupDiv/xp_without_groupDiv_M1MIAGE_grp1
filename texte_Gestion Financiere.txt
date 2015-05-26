@@ -3,7 +3,7 @@ Module Comptabilité
 Module Contrôle de Gestion
 
 Competences acquises:
-
+Analyse plus approfondies des bilans
 
 
 Programme:
@@ -13,3 +13,4 @@ Capacité d'auto financement
 
 
 Ameliorations a apporter:
+Ajouter un TP
