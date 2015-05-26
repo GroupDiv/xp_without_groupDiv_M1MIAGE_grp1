@@ -1,2 +1,3 @@
 164638|Technique de communication|usr5: Joindre l'utile à ... l'utile. Ex: aider à la rédaction des rapports pour d'autres matières
 165004|Nouvelle Pratique Informatique|usr5: soit changer le nom de la matière, soit changer le contenu. Même si l'enseignant a été décidé tardivement, il devrait se former ou prendre en compte le sujet plutôt que de choisir ses sujets. Quitte à repousser le début des cours.
+165212|Gestion Financiere|usr5: +1, "Avoir des têtes bien faites" = comprendre et interpréter les résultats plutôt que d'appliquer des formules
