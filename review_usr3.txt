@@ -2,3 +2,4 @@
 164532|Gestion Financiere|usr3: Au niveau des compétences : juger si une entreprise a une santé financière correcte. Au niveau du programme : analyse fonctionnelle du bilan. Au niveau amélioration : éviter de faire 8h de ce module dans la même journée.
 164734|Developpement Web et applications riches|usr3: Bon résumé! J'aurai ajouté dans les améliorations de prendre en compte le niveau très hétérogène de la classe, par exemple en conseillant des tuto à faire pour les plus inexpérimentés.
 164924|Developpement logiciel|usr3: D'accord avec le usr4! Pour aller plus loin, ce serait plus intéressant de ne pas scinder le module en deux avec deux enseignants différents mais faire quelque chose de plus homogène et suivi.
+165133|Gestion Financiere|usr3: Il est vrai que le droit aux formules devrait être autorisé étant donné que le prof lui même ne les connait pas forcément par coeur.......

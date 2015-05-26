@@ -1,2 +1,3 @@
 164813|Gestion Financiere|usr2: Permettre l'accès aux formules et de façon générale aux cours pendant les évaluations. Il y a trop de sigles et de formules à retenir.
 165050|Technique de communication|usr2: En point à améliorer, favoriser le travail oral en créant des mini scénarios d'entreprise.
+165255|Developpement logiciel|usr2: Réunir les cours autour d'un socle commun serai effectivement un bon point. Une meilleure cohérence entre le cours et les projets demandés serait bienvenue également.
