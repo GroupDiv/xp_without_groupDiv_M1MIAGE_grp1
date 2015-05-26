@@ -1,3 +1,4 @@
 164144|Technique de communication|usr4: Arreter de corriger des rapports aurait été un bon point à aborder
 164348|Gestion Financiere|usr4: Arrêter d'appendre des formules juste dans le but de les connaitres pour le devoir et plutot se concentrer sur l'analyse des résultats obtenu
 164559|Developpement logiciel|usr4: Mutualisé les projets pourrait également etre une bonne idée
+164903|Developpement Web et applications riches|usr4: arreter de casser les autres autres technologies parce qu'elle ne scale pas (exemple arreter de penser que les systemes de base de relationnel sont a jeter et quelles vont disparaitre ce n'est pas le cas et ne le sera jamais, y compris dans d'autre domaine que la finance). Le theoreme de CAP concerne la disponibilité et non la performance ...
