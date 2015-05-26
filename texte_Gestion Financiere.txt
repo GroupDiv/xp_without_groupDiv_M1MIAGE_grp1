@@ -14,4 +14,4 @@ Capacité d'auto-financement
 
 Ameliorations a apporter:
 Ajouter une partie TP au module
-Permettre d'avoir des documents en évaluations si le sujet est à déchiffrer (termes ambigus, modifications de consignes au dernier moment...)
+Permettre d'avoir des documents en évaluation si le sujet est à déchiffrer (termes ambigus, modifications de consignes au dernier moment...)
