@@ -1,1 +1,2 @@
 164208|Technique de communication|usr1: Ajouter en pré-requis les modules de PP de licence (rédaction d'un CV, entretien d'embauche...)
+164427|Developpement logiciel|usr1: Tout à fait d'accord sur la notation Z qui ne semble pas adoptée et peut connue, documentation introuvable en dehors des livres du prof
