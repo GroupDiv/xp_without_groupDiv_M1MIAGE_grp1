@@ -15,4 +15,4 @@ Réaliser un projet d'application innovant (trouver une bonne idée) et le réal
 
 
 Ameliorations a apporter:
-Réaliser une application plus complexe en TD.
+Réaliser une application plus adaptée au projet en TD.
