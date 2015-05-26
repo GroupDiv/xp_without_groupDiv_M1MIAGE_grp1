@@ -1,0 +1,16 @@
+Pre-requis:
+
+XML
+
+Competences acquises:
+
+Aucune
+
+Programme:
+
+Web sémantique,RDF, turtle
+
+Ameliorations a apporter:
+
+Ne pas faire de web sémantique dans une matiere qui s'appelle nouvelle pratique en entreprise.
+Si on a le malheur de le faire quand meme alors peut etre abordé les objectifs du big data et comment par exemple choisir ses données ou comment les netoyer de maniere automatique plutot que dire que c'est important de le faire sans apporter de solution.
