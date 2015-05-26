@@ -1,0 +1,18 @@
+Pre-requis:
+Connaissance du Web. 
+Vocabulaire lié aux technologies du Web. 
+
+
+Competences acquises:
+Angular JS
+REST
+Le fonctionnement du Datastore
+
+
+Programme:
+Apprendre à créer une application Web scalable 
+Réaliser un projet d'application innovant (trouver une bonne idée) et le réaliser s'assurant qu'elle soit en mesure de répondre aux critères de Google. 
+
+
+Ameliorations a apporter:
+Réaliser une application plus complexe en TD.
