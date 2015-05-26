@@ -1,0 +1,2 @@
+164813|Gestion Financiere|usr2: Permettre l'accès aux formules et de façon générale aux cours pendant les évaluations. Il y a trop de sigles et de formules à retenir.
+165050|Technique de communication|usr2: En point à améliorer, favoriser le travail oral en créant des mini scénarios d'entreprise.
