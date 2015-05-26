@@ -9,8 +9,7 @@ Savoir évaluer la santé d'une entreprise à partir des bilans et comptes de r�
 Programme:
 Analyse fonctionnelle du bilan
 Soldes intermédiaires de gestion
-Capacité d'auto financement
-
+Capacité d'auto-financement
 
 
 Ameliorations a apporter:
