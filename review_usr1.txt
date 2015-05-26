@@ -1,1 +1,3 @@
 164208|Technique de communication|usr1: Ajouter en pré-requis les modules de PP de licence (rédaction d'un CV, entretien d'embauche...)
+164427|Developpement logiciel|usr1: Tout à fait d'accord sur la notation Z qui ne semble pas adoptée et peut connue, documentation introuvable en dehors des livres du prof
+164627|Nouvelle Pratique Informatique|usr1: Il aurait été sympa d'avoir des intervenants extérieurs à l'université dans cette matière. L'MXL est un prérequis ici juste parce que le prof a décidé de faire du web sémantique
