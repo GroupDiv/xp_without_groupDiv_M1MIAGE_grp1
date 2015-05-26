@@ -1,0 +1,16 @@
+Pre-requis:
+Module Comptabilité
+Module Contrôle de Gestion
+
+Competences acquises:
+Analyse plus approfondies des bilans
+
+
+Programme:
+Soldes intermédiaires de gestion
+Capacité d'auto financement
+
+
+
+Ameliorations a apporter:
+Ajouter un TP
