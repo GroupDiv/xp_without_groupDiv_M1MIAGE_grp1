@@ -4,7 +4,7 @@ Module Contrôle de Gestion
 Réaliser les bilans, comptes de résultats et comptes en T à partir d'écritures comptables
 
 Competences acquises:
-Analyse plus approfondies des bilans
+Analyse plus approfondies des bilans et comptes de résultat
 
 
 Programme:
