@@ -1,0 +1,1 @@
+164813|Gestion Financiere|usr2: Permettre l'accès aux formules et de façon générale aux cours pendant les évaluations. Il y a trop de sigles et de formules à retenir.
